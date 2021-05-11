@@ -1,1 +1,2 @@
-# Water-Level-Detector-and-Controller-using-8051
+# Fuel-Level-Detector-and-Controller-using-8051 Micocontroller
+A fuel level detector and controller was very essential to prevent wastage of resources as well as to reduce human power in homes, large industries and even in big housing societies. This sytem implemented using 8051 microcontroller. This repository consists source code written in Embedded C as well as snapshot of simulation circuit developed in Proteus 8.11.  
