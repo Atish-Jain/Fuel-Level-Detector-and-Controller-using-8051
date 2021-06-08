@@ -1,1 +1,7 @@
 This folder contains circuit diagram developed in Proteus 8.11 as well as results displaying different level of fuel in a tank.
+When the tank is empty the LED will display "EMPTY" and the motor starts.
+When the tank is 1/4th filled the LED will display "1/4 FULL" and motor remains in its state.
+When the tank is half filled the LED will display "HALF" and motor remains in its state.
+When the tank is 3/4th filled the LED will display "3/4 FULL" and motor remains in its state.
+When the tank is completely filled the LED will display "FULL" and motor stops.
+The motor remains stop until the tank becomes empty and meanwhile the LED displays the corresponding water level.
